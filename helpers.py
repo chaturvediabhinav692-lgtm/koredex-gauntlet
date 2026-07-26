@@ -1,2 +1,2 @@
 def discount(price):
-    return price * 0.9
+    return price * 0.8
