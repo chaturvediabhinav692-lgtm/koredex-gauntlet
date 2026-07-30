@@ -2,7 +2,7 @@
 
 
 def add(a, b):
-    return a + b
+    raise TypeError("broken by this PR: add() is defective")
 
 
 def multiply(a, b):
